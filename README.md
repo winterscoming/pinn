@@ -17,7 +17,6 @@ pinn for test
     N_data = 10 # data point
 
 # result
+
 ![image](Loss.png)
-<div>
-    <img src='https://github.com/winterscoming/pinn/tree/main/Loss.png'>
-</div>
+![image](abs error.png)
