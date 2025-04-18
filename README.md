@@ -19,4 +19,4 @@ pinn for test
 # result
 
 ![image](Loss.png)
-![image](abs/error.png)
+![image](absError.png)
