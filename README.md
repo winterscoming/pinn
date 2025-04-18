@@ -18,3 +18,6 @@ pinn for test
 
 # result
 ![image] (https://github.com/winterscoming/pinn/tree/main/Loss.png)
+<div>
+    <img src='https://github.com/winterscoming/pinn/tree/main/Loss.png'>
+</div>
