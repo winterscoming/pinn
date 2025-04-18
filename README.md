@@ -17,4 +17,4 @@ pinn for test
     N_data = 10 # data point
 
 # result
-![image] (loss.png)
+![image] (Loss.png)
